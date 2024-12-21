@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👨‍💻 Welcome to Parth Builds! 🚀  
 
-<!--
-**parthbuilds/Parthbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Parth, an engineer passionate about crafting websites, building automation solutions, and delivering marketing strategies to make businesses more efficient.  
 
-Here are some ideas to get you started:
+🌟 Let's make tech work for you!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ 👨‍🏭 About Me  
+
+🎓 Engineer with a knack for problem-solving.  
+🌐 Freelancer creating custom websites that stand out.  
+🤖 Automation Specialist—saving time and reducing workload for businesses with PBA (Process-Based Automation).  
+📈 Marketer helping businesses scale with tailored strategies.  
+
+📍 Based in: [Your Location]  
+📬 Contact me at: [Your Email Address]  
+🌐 Portfolio Website: [Your Website URL]  
+
+---
+
+ 💼 What I Do  
+
+💡 Custom Automation: Automate repetitive processes and focus on what truly matters.  
+🌍 Web Development: Designing responsive, dynamic, and SEO-friendly websites.  
+📣 Marketing Services: Strategizing to amplify your brand presence.  
+📑 SaaS Solutions: Building software for scalability and efficiency.  
+
+---
+
+ 🚀 Current Projects  
+
+🖥️ Website Development  
+🔄 Automation Projects for Workload Optimization  
+📲 Building an App for Multi-Company Job Applications  
+📢 Social Media Content Creation for Immigration Companies  
+👕 Motivational T-Shirt Brand  
+
+---
+
+ 📈 Stats  
+
+GitHub Stats:  
+<!-- Add your GitHub Stats image here -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthbuilds&show_icons=true&theme=radical)  
+
+Top Languages:  
+<!-- Add your Top Languages image here -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthbuilds&layout=compact&theme=radical)  
+
+---
+
+ 💻 Technologies I Work With  
+
+```plaintext
+- Programming: Python, JavaScript, HTML, CSS  
+- Frameworks: React, Node.js  
+- Automation: Make (formerly Integromat), Zapier  
+- Tools: Canva, Photoshop, Figma  
