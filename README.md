@@ -13,9 +13,9 @@ Hi there! I'm Parth, an engineer passionate about crafting websites, building au
 🤖 Automation Specialist—saving time and reducing workload for businesses with PBA (Process-Based Automation).  
 📈 Marketer helping businesses scale with tailored strategies.  
 
-📍 Based in: [Your Location]  
-📬 Contact me at: [Your Email Address]  
-🌐 Portfolio Website: [Your Website URL]  
+📍 Based in: Bangalore 
+📬 Contact me at: Parthbuilds@gmail.com
+🌐 Portfolio Website: https://parthbuilds.tech
 
 ---
 
