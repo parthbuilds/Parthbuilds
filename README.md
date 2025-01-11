@@ -33,8 +33,7 @@ Hi there! I'm Parth, an engineer passionate about crafting websites, building au
 🖥️ Website Development  
 🔄 Automation Projects for Workload Optimization  
 📲 Building an App for Multi-Company Job Applications  
-📢 Social Media Content Creation for Immigration Companies  
-👕 Motivational T-Shirt Brand  
+📢 Social Media Content Creation for Immigration Companies 
 
 ---
 
