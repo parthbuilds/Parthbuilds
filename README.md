@@ -37,12 +37,6 @@ Hi there! I'm Parth, an engineer passionate about crafting websites, building au
 
 ---
 
- 📈 Stats  
-
-GitHub Stats:  
-<!-- Add your GitHub Stats image here -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthbuilds&show_icons=true&theme=radical)  
-
 Top Languages:  
 <!-- Add your Top Languages image here -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbuilds&layout=compact&theme=radical)  
