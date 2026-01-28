@@ -15,7 +15,7 @@ Hi there! I'm Parth, an engineer passionate about crafting websites, building au
 
 📍 Based in: Bangalore 
 📬 Contact me at: Parthbuilds@gmail.com
-🌐 Portfolio Website: https://parthbuilds.tech
+🌐 Portfolio Website: https://parthbuilds.vercel.app
 
 ---
 
